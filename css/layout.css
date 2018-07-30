@@ -22,32 +22,13 @@
   clear: both;
 }
 
-.wrapper {
-  display: grid;
-
-  
-}
-
-.Archive {
-
-  
-
-}
-
-.ladybugs {
-  
-}
-
-.Skaters {
-  
-  
-}
-
-.Heels {
-  
-}
 
 
 /* Posititoning Classes */
-
+.row {
+    clear: both;
+    margin-bottom: 2%;
+  }  
+  
+  
 
